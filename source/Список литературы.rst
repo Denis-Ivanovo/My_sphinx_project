@@ -1,0 +1,18 @@
+СПИСОК ЛИТЕРАТУРЫ
+==================
+
+.. [Rickes1948] Rickes, E.L. Crystalline Vitamin B12 / E.L. Rickes, N.G. Brink, F.R. Koniuszy, T.R. Wood, K. Folkers // Science. – 1948. – V. 107. – P. 396-397.
+
+.. [Smith1948] Smith E.L. Purification of anti-pernicious anaemia factors from liver / E.L. Smith // Nature. – 1948. – V. 161 – P. 638 – 639.
+
+
+Проверка Footnote 
+~~~~~~~~~~~~~~~~~~~
+.. rubric:: Пример ссылки на литературу, расположенной в конце всего документа 
+
+.. [#f1] Rickes, E.L. Crystalline Vitamin B12 / E.L. Rickes, N.G. Brink, F.R. Koniuszy, T.R. Wood, K. Folkers // Science. – 1948. – V. 107. – P. 396-397.
+.. [#f2] Smith E.L. Purification of anti-pernicious anaemia factors from liver / E.L. Smith // Nature. – 1948. – V. 161 – P. 638 – 639.
+.. [#f3] Новый источник
+.. [#f4] Новый источник
+
+
